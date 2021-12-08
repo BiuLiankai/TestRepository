@@ -1,0 +1,9 @@
+git --version//查看版本
+git config --list//查看配置
+git config --global user.name "XXX"//配置用户名
+git config --global user.email XXX@XX.COM//配置邮箱
+
+git init//初始化git仓库
+git add 文件名.扩展名//添加文件到缓存区
+git status//查看添加过的文件的状态（缓存区+仓库）
+git rm --cached 文件名.扩展名//清空缓存区某个文件的缓存、
