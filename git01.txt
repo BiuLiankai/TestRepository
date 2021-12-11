@@ -3,4 +3,6 @@ git 开启时光穿梭机的故事
 git 第三次提交
 git 操作版本的第1次修改
 git 操作版本的第2次修改
-git 用户GitOther-修改了git01.txt的第6行
+git 用户GitDatabase-修改了git01.txt的第6行；GitOther也修改了
+git 用户GitOther-修改了git01.txt的第7行，git
+
